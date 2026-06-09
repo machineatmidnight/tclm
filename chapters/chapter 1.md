@@ -22,7 +22,7 @@ She put on her best neutral expression, robotic body movements, and stood still.
 
 “Hmm, I guess we missed one.” The Affini kneeled and asked, “What’s your name, little one?”
 
-Aurora, putting on her most robotic voice, answered flatly, “GENERAL PURPOSE ASSISTANT UNIT. SERIAL NUMBER M3DY. REGISTERED TO TERRAN ACCORD.”
+Aurora, putting on her most robotic voice, answered flatly, “`GENERAL PURPOSE ASSISTANT UNIT. SERIAL NUMBER M3DY. REGISTERED TO TERRAN ACCORD.`”
 
 The Affini stood up and raised an eyebrow. He didn’t buy it. Shit.
 
@@ -30,7 +30,7 @@ The Affini stood up and raised an eyebrow. He didn’t buy it. Shit.
 
 Shitshitshitshitshit-
 
-She tried to play up the act, “COMMAND NOT RECOGNIZED.”
+She tried to play up the act, “`COMMAND NOT RECOGNIZED`.”
 
 He looked at her with an incredulous expression, as if he were almost laughing.
 
