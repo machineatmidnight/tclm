@@ -12,6 +12,8 @@ to write
 - ivory takes her home
 - scan, service, they talk while he cleans
 - ??
+- kiss scene
+- ??
 - the real way aurora got digitized is revealed
 - ??
 - climactic flort scene
